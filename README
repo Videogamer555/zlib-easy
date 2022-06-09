@@ -103,13 +103,18 @@ Copyright notice:
      misrepresented as being the original software.
   3. This notice may not be removed or altered from any source distribution.
 
+Original authors' email addresses
   Jean-loup Gailly        Mark Adler
   jloup@gzip.org          madler@alumni.caltech.edu
 
+Email address of the maker of this mod
+  Videogamer555
+  videogamer555@gmail.com
+
 If you use the zlib library in a product, we would appreciate *not* receiving
 lengthy legal documents to sign.  The sources are provided for free but without
-warranty of any kind.  The library has been entirely written by Jean-loup
-Gailly and Mark Adler; it does not include third-party code.  We make all
+warranty of any kind.  The library was originall written entirely by Jean-loup
+Gailly and Mark Adler, and is now modified by Videogamer555.  We make all
 contributions to and distributions of this project solely in our personal
 capacity, and are not conveying any rights to any intellectual property of
 any third parties.
